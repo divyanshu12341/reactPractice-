@@ -19,8 +19,8 @@ function App() {
         {data.map((product,idx)=>(
           <div className = "product-card">
             <h2>{product.name}</h2>
-            <p>Price: <span className = "price">{product.price}</span></p>
-            <p>Discount: <span className = "discount">{product.discount}</span></p>
+            <p>Price: <span className = "price">{product.price} rs</span></p>
+            <p>Discount: <span className = "discount">{product.discount}%</span></p>
             </div>
         ))}
       </div>
