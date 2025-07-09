@@ -1,0 +1,26 @@
+   [
+  {
+    "name": "Wireless Mouse",
+    "price": 25.99,
+    "discount": 10
+  },
+  {
+    "name": "Bluetooth Headphones",
+    "price": 59.99,
+    "discount": 15
+  },
+  {
+    "name": "USB-C Charger",
+    "price": 18.5,
+    "discount": 5
+  },
+  {
+    "name": "Laptop Stand",
+    "price": 34.99,
+    "discount": 20
+  },
+  {
+    "name": "Mechanical Keyboard",
+    "price": 79.99,
+    "discount": 12
+  }]
